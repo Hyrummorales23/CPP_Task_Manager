@@ -6,7 +6,7 @@ This is a console-based To-Do List Manager application written in C++. It demons
 
 As a software developer, I created this project to strengthen my C++ fundamentals and showcase my ability to build practical, well-structured applications. This project highlights my understanding of modern C++ practices and software engineering principles.
 
-[Software Demo Video](https://youtube.com/your-video-link-here)
+[Software Demo Video](https://youtu.be/yj30yGFRicI)
 
 ## Development Environment
 
